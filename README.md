@@ -1,39 +1,14 @@
-# 👋 Hi, I'm Reem
+# Hey, I'm Reem 👋
 
-I’m a **Software Engineer & Product Lead** passionate about building clean, secure, and scalable tech products.  
-I’ve led development and product efforts for a **SaaS platform** from concept to production, combining **engineering**, **product strategy**, and **security governance** to deliver reliable, user-centered solutions.
+I’m a software engineer and product lead with a soft spot for clean architecture and honest products.  
+I’ve spent the last few years building SaaS platforms, leading small teams, and designing systems that scale securely.  
 
----
+**Current project:** [configtrace](https://github.com/reemabdullah/configtrace) — a Rust-based tool to track and audit cloud configuration changes.  
 
-## 🧠 What I do
-- 🦀 Build backend systems and internal tools in **Rust**
-- 🧭 Design intuitive, maintainable **front-end apps** with **Nuxt**, **Vue** and **React Native**
-- ☁️ Manage deployments and infrastructure on **GCP** with **Kubernetes**
-- 🔐 Oversee **security governance**, access management, and ISO-27001 compliance
-- 🤝 Bridge technical and product teams to align vision, delivery, and impact
+**Previously:** Led the development of a sustainability-focused SaaS platform and its cybersecurity governance.  
+
+Outside of code, I chase good stories — in books, in art, and sometimes in the systems we build.
 
 ---
 
-## 🛠️ Tech & Tools
-**Languages:** Rust, TypeScript, JavaScript, SQL, Python  
-**Frameworks:** Axum, Nuxt.js, Vue.js, React Native, Flutter  
-**Cloud & DevOps:** GCP, Kubernetes, Supabase, Docker, CircleCI  
-**Other:** ISO-27001, IT governance, CI/CD automation, API design
-
----
-
-## 🚀 Current Focus
-- Building **side projects** around developer tools, data collection, and secure cloud systems  
-- Exploring **Rust + Supabase** integrations for full-stack apps  
-- Sharing learnings on architecture, governance, and building meaningful tech
-
----
-
-## 🌍 Beyond Code
-I care deeply about creating products that are **thoughtful, secure, and empowering** — for users and developers alike.  
-Outside of tech, I love exploring the **history of art** and **reading** — they constantly remind me how design, culture, and storytelling shape the way we build things.
-
----
-
-📫 **Let’s connect:**  
-[LinkedIn](https://linkedin.com/in/reemalsobaiee) · [Email](mailto:reemalsobaiee@gmail.com)
+[LinkedIn](https://linkedin.com/in/reemalsobaiee) · [Email](mailto:reem@example.com)
