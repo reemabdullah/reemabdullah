@@ -11,4 +11,4 @@ Outside of code, I chase good stories — in books, in art, and sometimes in the
 
 ---
 
-[LinkedIn](https://linkedin.com/in/reemalsobaiee) · [Email](mailto:reem@example.com)
+[LinkedIn](https://linkedin.com/in/reemalsobaiee) · [Email](mailto:reemalsobaiee@gmail.com)
